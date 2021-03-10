@@ -7,8 +7,8 @@
     "tenant_id": "zzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz",
     "subscription_id": "yyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyy",
 
-    "managed_image_resource_group_name": "myPackerGroup",
-    "managed_image_name": "azure-packer-rg",
+    "managed_image_resource_group_name": "azure-packer-rg",
+    "managed_image_name": "custom-win-image",
 
     "os_type": "Windows",
     "image_publisher": "MicrosoftWindowsServer",
