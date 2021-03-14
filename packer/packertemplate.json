@@ -8,8 +8,7 @@
     "subscription_id": "$subscription_id",
 
     "managed_image_resource_group_name": "azure-packer-rg",
-    "managed_image_name": "packer-ubuntu1604-image",
-
+    "managed_image_name": "custom-linux-image",
     "os_type": "Linux",
     "image_publisher": "Canonical",
     "image_offer": "UbuntuServer",
